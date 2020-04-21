@@ -2,4 +2,4 @@
 
 > In progress. Moving Mydotfiles to this repo.
 
-![](https://github.com/NicholasLangevin/dotfiles/edit/master/vim.png)
+![](https://github.com/NicholasLangevin/dotfiles/blob/master/vim.png)
